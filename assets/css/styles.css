@@ -204,7 +204,11 @@ img {
 }
 
 .home__title-color {
-  color: hsl(var(--hue-color), 35%, 15%);
+  color: var(--second-color);
+}
+
+.typewrite{
+  color: var(--second-color);
 }
 
 .home__social {
